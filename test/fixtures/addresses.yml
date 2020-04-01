@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  street: MyString
+  number: MyString
+  department: MyString
+  parking: false
+  comuna: one
+  user: one
+
+two:
+  street: MyString
+  number: MyString
+  department: MyString
+  parking: false
+  comuna: two
+  user: two

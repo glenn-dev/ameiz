@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  minutes: 1
+  price: 1.5
+  category: one
+
+two:
+  name: MyString
+  minutes: 1
+  price: 1.5
+  category: two

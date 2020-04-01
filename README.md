@@ -15,4 +15,4 @@
 * Diagrama logico.
 ![alt text][logic]
 
-[logic]: /diagrama_logico2.png
+[logic]: /diagrama_logico_2.png
